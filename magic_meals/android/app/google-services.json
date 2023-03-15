@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "946723413837",
+    "firebase_url": "https://magicmeals202-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "magicmeals202",
+    "storage_bucket": "magicmeals202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946723413837:android:347d498cb4b8ece9062104",
+        "android_client_info": {
+          "package_name": "com.example.magicmeals202"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946723413837-2dv7dmtkqr9tdaod0r7c4qs0h7j78j0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG-KsjfcpEVZ3q3my9LbJSJYmkSaJ4Ues"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946723413837-2dv7dmtkqr9tdaod0r7c4qs0h7j78j0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
